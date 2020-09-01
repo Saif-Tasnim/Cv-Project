@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #EEE;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.container {
+
+    max-width: 1000px;
+    background-color: #E4F9F5;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {}
+
+.image {
+    width: 120px;
+    height: 140px;
+    border: 3px solid white;
+    border-radius: 50%;
+    float: left;
+    background-color: #E4F9F5;
+}
+
+.a {
+
+    float: left;
+    padding: 40px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #11999E;
+}
+
+.b {
+    float: right;
+    padding: 40px;
+
+}
+
+.b a {
+    text-decoration: underline;
+    color: teal;
+    font-weight: bold;
+}
+
+.b a:hover {
+    text-decoration: inherit;
+    color: black;
+
+
+}
+
+.div-clear {
+    clear: both;
+}
+
+hr {
+    border: solid black 5px;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+}
+.content{
+    margin-bottom: 30px;
+}
+.div-left{
+    width: 30%;
+    float: left;
+}
+.div-right{
+    width: 70%;
+    float: left;
+    
+}
+.common-hr{
+    border: solid black 1px;
+    width: 100%;
+    border-bottom: none;
+    margin: 20px auto;
+}
+.edu-temp-left{
+float: left;
+    width: 45%;
+}
+
+.edu-temp-right{
+    float:right;
+    width: 45%;
+}
+.i{
+    color:red;
+}
+
+.bottom{
+    background-color: black;
+    text-align: center;
+    padding: 40px;
+}
+.bottom a{
+    text-decoration: none;
+    color: white;
+    margin: 40px;
+}
+.bottom p{
+    color: white;
+    margin: 40px;
+}
